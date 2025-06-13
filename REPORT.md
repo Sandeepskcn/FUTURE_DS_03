@@ -1,12 +1,5 @@
-To create a detailed report on the Road Accident Dashboard from your Power BI `.pbix` file (`TASK 3 DASHBOARD.pbix`), I’ll first summarize the key components typically analyzed in such dashboards and then tailor a professional report layout based on the likely visualizations and metrics used.
 
----
-
-## **Road Accident Dashboard Report**
-
-### **Project Title:**
-
-**Road Accident Analysis Dashboard**
+##**Road Accident Analysis Dashboard**
 
 ### **Objective:**
 
@@ -79,7 +72,3 @@ The primary objective of this dashboard is to analyze road accident data to iden
 3. **Vehicle-Specific Campaigns**: Promote road safety awareness for car drivers, as they represent a high percentage of involvement.
 4. **Weather and Lighting**: Improve infrastructure such as street lighting and drainage in areas prone to poor visibility or wet road surfaces.
 5. **Age-Specific Messaging**: Launch tailored education programs for vulnerable age groups identified in the data.
-
----
-
-Would you like this formatted into a **PowerPoint** or **PDF report** with visuals, or do you want a **Word document** style export? Also, I can extract exact numbers and charts from the `.pbix` file if you can open it in Power BI Desktop and export visuals or share screenshots. Let me know how you'd like to proceed.
